@@ -55,8 +55,3 @@ Contoh pesan:
 - Pesanan-3: 0
 - Pesanan-4: 0
 
-## Informasi Tambahan (Opsional untuk Laporan)
-- Mata kuliah:
-- Kelas/Program Studi:
-- Dosen/Tutor:
-- Tanggal pengerjaan:
